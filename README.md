@@ -20,4 +20,4 @@ Feito por: Kevin Almeida | [<a href="https://www.linkedin.com/in/kevin-almeida-d
 Créditos: QA Ninja | [<a href="https://www.youtube.com/qaninja">Veja o canal do youtube da QA Ninja</a>]
 
 # Certificado de conclusão
-![Certificado](certificado-cypress-qaninja.png)
+![Certificado](certificate-cypress-qaninja.png)
